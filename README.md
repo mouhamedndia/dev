@@ -1,3 +1,0 @@
-"# MAQUETTE" 
-"# dev" 
-"# dev" 
